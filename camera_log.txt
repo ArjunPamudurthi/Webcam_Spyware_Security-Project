@@ -1,0 +1,79 @@
+[2025-07-11 21:10:06] Password changed to: 123456
+[2025-07-11 21:10:28] Camera Enabled
+[2025-07-11 21:11:05] Camera Disabled
+[2025-07-11 21:28:12] Camera Disabled
+[2025-07-11 21:30:43] Camera Disabled
+[2025-07-11 21:52:22] Camera Enabled
+[2025-07-12 17:39:25] Camera Enabled
+[2025-07-12 17:54:43] Camera Disabled
+[2025-07-12 17:59:46] Camera Disabled
+[2025-07-12 18:04:39] Camera Disabled
+[2025-07-12 18:06:29] Camera Disabled (Hardware)
+[2025-07-12 18:08:41] Camera Disabled (Hardware)
+[2025-07-12 18:21:10] Camera Disabled (Hardware)
+[2025-07-12 18:21:43] Camera Enabled (Hardware)
+[2025-07-12 18:24:58] Camera Enabled (Hardware)
+[2025-07-12 18:26:52] Camera Enabled (Hardware)
+[2025-07-12 18:27:08] Camera Disabled (Hardware)
+[2025-07-12 18:29:13] Camera Enabled (Hardware)
+[2025-07-12 18:29:25] Camera Disabled (Hardware)
+[2025-07-12 18:39:01] Camera Enabled (Hardware)
+[2025-07-12 18:41:39] Camera Disabled
+[2025-07-12 18:41:59] Camera Enabled
+[2025-07-13 19:44:22] Camera Enabled
+[2025-07-13 19:44:29] Camera Enabled
+[2025-07-13 19:44:31] Camera Disabled
+[2025-07-13 19:44:34] Camera Disabled
+[2025-07-13 19:45:46] Camera Disabled
+[2025-07-13 19:46:11] Camera Enabled
+[2025-07-13 19:48:07] Camera Enabled
+[2025-07-13 19:48:10] Camera Enabled
+[2025-07-13 19:53:21] Camera Enabled
+[2025-07-13 19:54:10] Camera Disabled
+[2025-07-14 19:37:27] Camera Enabled
+[2025-07-14 19:37:44] Camera Disabled
+[2025-07-16 18:29:11] Camera Enabled
+[2025-07-16 18:29:22] Camera Disabled
+[2025-07-16 19:24:30] Camera Enabled
+[2025-07-16 19:24:51] Camera Enabled
+[2025-07-16 19:24:57] Camera Disabled
+[2025-07-16 19:27:21] Camera Enabled
+[2025-07-16 19:27:38] Camera Disabled
+[2025-07-16 19:37:25] Camera Enabled
+[2025-07-16 19:38:48] Camera Enabled
+[2025-07-16 19:39:02] Camera Disabled
+[2025-07-16 19:47:58] Camera Enabled
+[2025-07-16 19:48:11] Camera Disabled
+[2025-07-17 21:12:13] Camera Disabled
+[2025-07-23 22:25:06] Camera Disabled
+[2025-07-23 22:25:20] Camera Enabled
+[2025-07-23 22:25:21] Camera Enabled
+[2025-07-23 22:25:47] Camera Disabled
+[2025-07-24 21:03:29] Camera Enabled
+[2025-07-25 20:53:18] Camera Disabled
+[2025-07-25 21:02:23] Camera Enabled
+[2025-07-25 21:02:39] Camera Disabled
+[2025-07-25 21:08:59] Camera Enabled
+[2025-07-25 21:09:32] Camera Disabled
+[2025-07-25 21:13:03] Camera Enabled
+[2025-07-25 21:13:13] Camera Disabled
+[2025-07-25 21:13:43] Camera Enabled
+[2025-07-25 21:23:33] Camera Enabled
+[2025-07-25 21:24:20] Camera Disabled
+[2025-07-25 21:27:07] Camera Enabled
+[2025-07-25 21:27:54] Camera Disabled
+[2025-07-31 20:40:41] Camera Enabled
+[2025-07-31 20:40:59] Camera Disabled
+[2025-07-31 20:43:59] Camera Enabled
+[2025-07-31 20:44:43] Camera Disabled
+[2025-07-31 20:47:03] Camera Enabled
+[2025-08-02 16:06:56] Camera Enabled
+[2025-08-02 16:07:44] Camera Disabled
+[2025-08-02 16:08:58] Camera Enabled
+[2025-08-09 20:22:18] Password changed to: Fn,[p*lAb?c3
+[2025-08-09 20:22:53] Camera Enabled
+[2025-08-09 20:23:54] Camera Disabled
+[2025-08-09 20:24:14] Camera Enabled
+[2025-08-31 14:19:02] Camera Enabled
+[2025-08-31 14:19:19] Camera Disabled
+[2025-08-31 14:19:43] Camera Enabled
